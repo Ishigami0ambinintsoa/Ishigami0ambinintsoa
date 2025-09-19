@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Ambinintsoa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋
 
-<!---
-Ishigami0ambinintsoa/Ishigami0ambinintsoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Ambinintsoa, and I am from Madagascar.  
+
+Welcome to my GitHub profile! Here you will find my projects and experiments in coding and development.  
+
+## 💻 My Skills
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C](https://skillicons.dev/icons?i=c)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+Feel free to explore and connect! 🚀
