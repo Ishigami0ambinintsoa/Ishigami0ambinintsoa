@@ -11,5 +11,8 @@ Welcome to my GitHub profile! Here you will find my projects and experiments in 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![C](https://skillicons.dev/icons?i=c)
 ![SQL](https://skillicons.dev/icons?i=mysql)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
 
 Feel free to explore and connect! 🚀
+
