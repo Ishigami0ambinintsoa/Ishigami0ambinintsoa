@@ -14,5 +14,5 @@ Welcome to my GitHub profile! Here you will find my projects and experiments in 
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Python](https://skillicons.dev/icons?i=python)
 
-Feel free to explore and connect! 🚀
+
 
