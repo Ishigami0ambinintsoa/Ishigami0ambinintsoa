@@ -13,6 +13,7 @@ Welcome to my GitHub profile! Here you will find my projects and experiments in 
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 
 
 
